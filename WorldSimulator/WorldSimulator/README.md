@@ -1,5 +1,5 @@
 # World Simulator
-![Game screen](screen.png)
+![Game screen](screen.png)  
 This is simple project written as an assignment job in Java. It "Simulates" World. This is simple version, not developed much.  
 It uses Swing library to create Console log and game window. Game window is hand-written JComponent with custom rendering. It includes simple Action system, interface to render world and interface
 to implement new entities
