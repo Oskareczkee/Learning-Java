@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Simple Shape Drawer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Simple_Shape_Drawer_jar</output-path>
+    <root id="archive" name="Simple Shape Drawer.jar">
+      <element id="module-output" name="Simple Shape Drawer" />
+    </root>
+  </artifact>
+</component>
